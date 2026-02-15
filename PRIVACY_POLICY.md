@@ -61,7 +61,9 @@ We may update this policy from time to time. Continued use of the App after chan
 
 If you have questions about this privacy policy, please contact:
 
-**Nyx Innovations Ltd**
+**Nyx Innovations Ltd**  
+**Email:** admin@nyxinnovationsltd.co.uk  
+**Website:** https://nyxinnovationsltd.co.uk
 
 ---
 
